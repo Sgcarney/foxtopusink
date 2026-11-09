@@ -1,4 +1,22 @@
 # Old Squarespace addresses that no longer have their own page
-/privacy                                /privacy-policy/        301
-/podcast                                /podcasts/               301
-/shop                                   /foxtoshop/               301
+/privacy /privacy-policy/ 301
+/podcast /podcasts/ 301
+/shop /foxtoshop/ 301
+
+# Addresses Google still has from the Squarespace site and the first rebuild
+/home / 301
+/blog/foxtoshop /foxtoshop/ 301
+/blog/podcasts /podcasts/ 301
+/blog/books /books/ 301
+/blog/the-syndicate /the-syndicate/ 301
+/blog/privacy-policy /privacy-policy/ 301
+/blog/blood-vines /blood-vines/ 301
+/blog/foxtoshop/index.html /foxtoshop/ 301
+/blog/podcasts/index.html /podcasts/ 301
+/blog/books/index.html /books/ 301
+/blog/the-syndicate/index.html /the-syndicate/ 301
+/blog/privacy-policy/index.html /privacy-policy/ 301
+/blog/blood-vines/index.html /blood-vines/ 301
+/blog/index.html / 301
+/blog / 301
+/wildthing/listen /podcasts/ 301
