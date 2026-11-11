@@ -37,4 +37,4 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
-Sitemap: https://www.foxtopus.ink/sitemap.xml
+Sitemap: https://foxtopus.ink/sitemap.xml
