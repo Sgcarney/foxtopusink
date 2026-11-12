@@ -20,3 +20,6 @@
 /blog/index.html / 301
 /blog / 301
 /wildthing/listen /podcasts/ 301
+/wildthing https://laurakrantz.com/podcasts/ 301
+/wildthing/ https://laurakrantz.com/podcasts/ 301
+/wildthing/* https://laurakrantz.com/podcasts/ 301
