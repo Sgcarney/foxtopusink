@@ -23,3 +23,9 @@
 /wildthing https://laurakrantz.com/podcasts/ 301
 /wildthing/ https://laurakrantz.com/podcasts/ 301
 /wildthing/* https://laurakrantz.com/podcasts/ 301
+
+# Old Squarespace pages
+/space-invaders https://www.laurakrantz.com/podcasts/#space-invaders 301
+/donation https://buy.stripe.com/dRm4gz3W1fKq3Hc55S0RG00 301
+/newsletter https://laurakrantz.substack.com/ 301
+/going-nuclear https://www.laurakrantz.com/wild-thing-going-nuclear/ 301
